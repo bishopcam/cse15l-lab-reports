@@ -1,5 +1,5 @@
 Github basic file
 ---
-![Image](https://imgur.com/a/E8YSn9E)
+![Image](https://i.imgur.com/twR1EUI.png)
 ---
-![Image](https://imgur.com/a/XScw3mw)
+![Image](https://i.imgur.com/jlO1yhT.png)
