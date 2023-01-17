@@ -2,6 +2,8 @@
 --- 
 
 First, you must have visual studio code downloaded. To do this you must first navigate to the online download page, then download the installer. Then you must follow the installer wizards instructions and finish the installation process. Once visual studio code is properly installed it will look approximately like this :  
+  
+---
 ![Image](https://i.imgur.com/sxz2O8v.png)
   
 ---
