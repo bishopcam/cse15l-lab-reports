@@ -6,7 +6,9 @@ First, you must have visual studio code downloaded. To do this you must first na
   
 ---
   
-Then you must remotely connect to the linux ieng server. To do this you need to properly have a git bash terminal installed and operating on your visual studio code. Then you have to input your username and password for the remote client. If you end up properly logged in to the server it will look approximately like this:  
+Then you must remotely connect to the linux ieng server. To do this you need to properly have a git bash terminal installed and operating on your visual studio code. Then you have to input your username and password for the remote client. If you end up properly logged in to the server it will look approximately like this:
+
+---
 ![Image](https://i.imgur.com/jlO1yhT.png)
   
 ---
